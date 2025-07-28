@@ -16,7 +16,7 @@
     - EnhancedLockpicker - [1.1.6](https://thunderstore.io/c/lethal-company/p/MrHydralisk/EnhancedLockpicker/v/1.1.6) -> [1.1.7](https://thunderstore.io/c/lethal-company/p/MrHydralisk/EnhancedLockpicker/v/1.1.7)
     - LethalLib - [1.1.0](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/v/1.1.0) -> [1.1.1](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/v/1.1.1)
     - MoreCompany - [1.11.1](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/v/1.11.1) -> [1.11.2](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/v/1.11.2)
-    - Natural selection - [0.3.0](https://thunderstore.io/c/lethal-company/p/Fandovec03/Natural_selection/v/0.3.0) -> [0.4.10](https://thunderstore.io/c/lethal-company/p/Fandovec03/Natural_selection/v/0.4.10)
+    - Natural selection - [0.3.0](https://thunderstore.io/c/lethal-company/p/Fandovec03/Natural_selection/v/0.3.0) -> [0.4.11](https://thunderstore.io/c/lethal-company/p/Fandovec03/Natural_selection/v/0.4.10)
     - NaturalSelectionLib - [0.6.7](https://thunderstore.io/c/lethal-company/p/Fandovec03/NaturalSelectionLib/v/0.6.7) -> [0.8.0](https://thunderstore.io/c/lethal-company/p/Fandovec03/NaturalSelectionLib/v/0.8.0)
     - PathfindingLib - [0.1.1](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLib/v/0.1.1) -> [1.0.1](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLib/v/1.0.1)
     - Poltergeist - [1.2.2](https://thunderstore.io/c/lethal-company/p/coderCleric/Poltergeist/v/1.2.2) -> [1.2.6](https://thunderstore.io/c/lethal-company/p/coderCleric/Poltergeist/v/1.2.6)
