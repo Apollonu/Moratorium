@@ -5,6 +5,7 @@
 
 - Additions
   - Mods
+    - BetterLaddersFixed - [1.0.7](https://thunderstore.io/c/lethal-company/p/Lunxara/BetterLaddersFixed/v/1.0.7)
     - MonoDetour BepInEx 5 - [0.6.14](https://thunderstore.io/c/lethal-company/p/MonoDetour/MonoDetour_BepInEx_5/v/0.6.14) + MonoDetour - [0.6.14](https://thunderstore.io/c/lethal-company/p/MonoDetour/MonoDetour/v/0.6.14)
   - Resourcepacks / Shaderpacks
     - none
@@ -32,6 +33,7 @@
   - Reverts
     - none
   - Removals
+    - [BetterLadders](https://thunderstore.io/c/lethal-company/p/e3s1/BetterLadders)
     - [DoorFix](https://thunderstore.io/c/lethal-company/p/itsmeowdev/DoorFix)
     - [FairBirds](https://thunderstore.io/c/lethal-company/p/woah25/FairBirds)
     - [FairGiantsHostOnly](https://thunderstore.io/c/lethal-company/p/woah25/FairGiantsHostOnly)
