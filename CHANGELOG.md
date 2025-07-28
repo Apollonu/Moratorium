@@ -6,7 +6,9 @@
 - Additions
   - Mods
     - BetterLaddersFixed - [1.0.7](https://thunderstore.io/c/lethal-company/p/Lunxara/BetterLaddersFixed/v/1.0.7)
+    - Interactive Terminal API - [1.2.0](https://thunderstore.io/c/lethal-company/p/WhiteSpike/Interactive_Terminal_API/v/1.2.0)
     - MonoDetour BepInEx 5 - [0.6.14](https://thunderstore.io/c/lethal-company/p/MonoDetour/MonoDetour_BepInEx_5/v/0.6.14) + MonoDetour - [0.6.14](https://thunderstore.io/c/lethal-company/p/MonoDetour/MonoDetour/v/0.6.14)
+    - TestAccountCore - [1.14.3](https://thunderstore.io/c/lethal-company/p/TestAccount666/TestAccountCore/v/1.14.3)
   - Resourcepacks / Shaderpacks
     - none
 - Updates
@@ -21,10 +23,12 @@
     - PathfindingLib - [0.1.1](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLib/v/0.1.1) -> [1.0.1](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLib/v/1.0.1)
     - Poltergeist - [1.2.2](https://thunderstore.io/c/lethal-company/p/coderCleric/Poltergeist/v/1.2.2) -> [1.2.6](https://thunderstore.io/c/lethal-company/p/coderCleric/Poltergeist/v/1.2.6)
     - ScienceBird Tweaks - [4.2.10](https://thunderstore.io/c/lethal-company/p/ScienceBird/ScienceBird_Tweaks/v/4.2.10) -> [4.3.3](https://thunderstore.io/c/lethal-company/p/ScienceBird/ScienceBird_Tweaks/v/4.3.3)
+    - ShipWindows - [1.11.0](https://thunderstore.io/c/lethal-company/p/TestAccount666/ShipWindows/v/1.11.0) -> [2.5.1](https://thunderstore.io/c/lethal-company/p/TestAccount666/ShipWindows/v/2.5.1)
     - StarlancerAIFix - [3.10.0](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/v/3.10.0) -> [3.11.1](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/v/3.11.1)
   - Configs
     - [Poltergeist](https://thunderstore.io/c/lethal-company/p/coderCleric/Poltergeist) (Update)
     - [ScienceBird Tweaks](https://thunderstore.io/c/lethal-company/p/ScienceBird/ScienceBird_Tweaks) (Update)
+    - [ShipWindows](https://thunderstore.io/c/lethal-company/p/TestAccount666/ShipWindows) (Update, Balancing)
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
