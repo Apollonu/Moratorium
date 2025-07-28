@@ -5,14 +5,18 @@
 
 - Additions
   - Mods
-    - none
+    - MonoDetour BepInEx 5 - [0.6.14](https://thunderstore.io/c/lethal-company/p/MonoDetour/MonoDetour_BepInEx_5/v/0.6.14) + MonoDetour - [0.6.14](https://thunderstore.io/c/lethal-company/p/MonoDetour/MonoDetour/v/0.6.14)
   - Resourcepacks / Shaderpacks
     - none
 - Updates
   - Modpack
     - none
   - Mods
-    - none
+    - EnhancedLockpicker - [1.1.6](https://thunderstore.io/c/lethal-company/p/MrHydralisk/EnhancedLockpicker/v/1.1.6) -> [1.1.7](https://thunderstore.io/c/lethal-company/p/MrHydralisk/EnhancedLockpicker/v/1.1.7)
+    - LethalLib - [1.1.0](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/v/1.1.0) -> [1.1.1](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/v/1.1.1)
+    - NaturalSelectionLib - [0.6.7](https://thunderstore.io/c/lethal-company/p/Fandovec03/NaturalSelectionLib/v/0.6.7) -> [0.8.0](https://thunderstore.io/c/lethal-company/p/Fandovec03/NaturalSelectionLib/v/0.8.0)
+    - PathfindingLib - [0.1.1](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLib/v/0.1.1) -> [1.0.1](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLib/v/1.0.1)
+    - StarlancerAIFix - [3.10.0](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/v/3.10.0) -> [3.11.1](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/v/3.11.1)
   - Configs
     - none
   - Resourcepacks / Shaderpacks
@@ -23,7 +27,7 @@
   - Reverts
     - none
   - Removals
-    - none
+    - [DoorFix](https://thunderstore.io/c/lethal-company/p/itsmeowdev/DoorFix)
 </details>
 
 <details close>
