@@ -1,5 +1,5 @@
 # Moratorium
-This modpack will enhance a majority of the features in Lethal Company v69 and add some new ones,
-it will not severely alter gameplay allowing the vanilla essence of the game to flow in the right direction.
+This modpack plans to only enhance, fix and improve existing features or ones that meld well with vanilla lethal company. It is built off of [Moratorium Client](https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium_Client). I will be releasing another modpack that builds off of this one, it will be all out in features, just as I have done with [Abaddon Mines](https://www.curseforge.com/minecraft/modpacks/abaddon-mines). Maybe i'll connect all of these platforms together sometime for anyone interested in modpacks for other games.
+You can download [Moratorium](https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium) on Thunderstore, others are not allowed to distribute, modify or release files from the modpack in any manner, unto others.
 # Changelogs
 I like my [changelogs](https://github.com/Apollonu/Abaddon-Client/blob/main/CHANGELOG.md) to be extensive, if there are any errors for some reason, make a Pull request and I will fix it. Do not abuse the Pull request for any reason whatsoever.
