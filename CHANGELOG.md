@@ -1,6 +1,6 @@
 <details close>
 <summary><h2>
-  Moratorium - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium/versions">0.3.0</a>
+  Moratorium - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium/versions">0.5.0</a> (Nightly)
 </h2></summary><br>
 
 - Additions
@@ -28,6 +28,112 @@
 
 <details close>
 <summary><h2>
+  Moratorium - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium/versions">0.4.1</a> (Current Release)
+</h2></summary><br>
+
+- Additions
+  - Mods
+    - none
+  - Resourcepacks / Shaderpacks
+    - none
+- Updates
+  - Modpack
+    - none
+  - Mods
+    - none
+  - Configs
+    - none
+  - Resourcepacks / Shaderpacks
+    - none
+- Fixes
+  - Changelog Fix
+- Reverts / Removals
+  - Reverts
+    - none
+  - Removals
+    - none
+</details>
+
+<details close>
+<summary><h2>
+  Moratorium - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium/versions">0.4.0</a> (Modern Template)
+</h2></summary><br>
+
+- Additions
+  - Mods
+    - BetterLadders - [1.4.3](https://thunderstore.io/c/lethal-company/p/e3s1/BetterLadders/v/1.4.3)
+    - BetterMonitor - [0.1.3](https://thunderstore.io/c/lethal-company/p/fumiko/BetterMonitor/v/0.1.3)
+    - BetterStamina - [1.5.6](https://thunderstore.io/c/lethal-company/p/FlipMods/BetterStamina/v/1.5.6)
+    - HexiShotgunTweaks - [1.0.1](https://thunderstore.io/c/lethal-company/p/dopadream/HexiShotgunTweaks/v/1.0.1)
+    - JesterTimeout - [1.0.1](https://thunderstore.io/c/lethal-company/p/Rosentti/JesterTimeout/v/1.0.1)
+    - LandFromOrbit - [1.1.2](https://thunderstore.io/c/lethal-company/p/mattymatty/LandFromOrbit/v/1.1.2)
+  - Resourcepacks / Shaderpacks
+    - none
+- Updates
+  - Modpack
+    - none
+  - Mods
+    - LethalLib - [1.0.1](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/v/1.0.1) -> [1.0.3](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/v/1.0.3)
+    - ScienceBird Tweaks - [4.1.4](https://thunderstore.io/c/lethal-company/p/ScienceBird/ScienceBird_Tweaks/v/4.1.4) -> [4.2.3](https://thunderstore.io/c/lethal-company/p/ScienceBird/ScienceBird_Tweaks/v/4.2.3)
+  - Configs
+    - [BetterLadders](https://thunderstore.io/c/lethal-company/p/e3s1/BetterLadders) (Speed & Extension Ladder)
+    - [BetterMonitor](https://thunderstore.io/c/lethal-company/p/fumiko/BetterMonitor) (Rotation, Ship)
+    - [BetterStamina](https://thunderstore.io/c/lethal-company/p/FlipMods/BetterStamina) (Regen & Ladder)
+    - [JesterTimeout](https://thunderstore.io/c/lethal-company/p/Rosentti/JesterTimeout) (Time)
+    - [ProblematicPilotry](https://thunderstore.io/c/lethal-company/p/windblownleaves/ProblematicPilotry) (Rebuild Navmesh Disabled)
+    - [ScienceBird Tweaks](https://thunderstore.io/c/lethal-company/p/ScienceBird/ScienceBird_Tweaks) (Tweaks & Updated Config)
+    - [ShipWindows](https://thunderstore.io/c/lethal-company/p/TestAccount666/ShipWindows) (Audio, Window Prices, Window Material)
+  - Resourcepacks / Shaderpacks
+    - none
+- Fixes
+  - none
+- Reverts / Removals
+  - Reverts
+    - none
+  - Removals
+    - none
+</details>
+
+<details close>
+<summary><h2>
+  Moratorium - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium/versions">0.3.0</a>
+</h2></summary><br>
+
+- Additions
+  - Mods
+    - AudibleHydraulics - [1.0.1](https://thunderstore.io/c/lethal-company/p/dragonmcmx/AudibleHydraulics/v/1.0.1)
+    - Doms Basic Suit Colors - [1.4.4](https://thunderstore.io/c/lethal-company/p/404_Dom/Doms_Basic_Suit_Colors/v/1.4.4) + More Suits - [1.5.2](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/v/1.5.2)
+    - FairBirds - [1.0.1](https://thunderstore.io/c/lethal-company/p/woah25/FairBirds/v/1.0.1)
+    - FairGiantsHostOnly - [1.9.0](https://thunderstore.io/c/lethal-company/p/woah25/FairGiantsHostOnly/v/1.9.0)
+    - MoreCompany - [1.11.0](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/v/1.11.0)
+    - TooManySuits - [2.0.1](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/v/2.0.1)
+    - WilsSpeedyShip - [1.1.1](https://thunderstore.io/c/lethal-company/p/Wil/WilsSpeedyShip/v/1.1.1)
+  - Resourcepacks / Shaderpacks
+    - none
+- Updates
+  - Modpack
+    - none
+  - Mods
+    - PathfindingLib - [0.1.0](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLib/v/0.1.0) -> [0.1.1](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLib/v/0.1.1)
+    - StarlancerAIFix - [3.9.0](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/v/3.9.0) -> [3.9.1](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/v/3.9.1)
+  - Configs
+    - [More Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits)
+    - [MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany)
+    - [ProblematicPilotry](https://thunderstore.io/c/lethal-company/p/windblownleaves/ProblematicPilotry) (Iterations)
+  - Resourcepacks / Shaderpacks
+    - none
+- Fixes
+  - Changelog Fix
+- Reverts / Removals
+  - Reverts
+    - none
+  - Removals
+    - [LethalPerformance](https://thunderstore.io/c/lethal-company/p/DiFFoZ/LethalPerformance) Config
+    - [MapImprovements](https://thunderstore.io/c/lethal-company/p/SpookyBuddy/MapImprovements) (Disabled) + Config + [LethalLevelLoader](https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader) (Disabled)
+</details>
+
+<details close>
+<summary><h2>
   Moratorium - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium/versions">0.2.3</a>
 </h2></summary><br>
 
@@ -46,7 +152,7 @@
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
-  - none
+  - Config Fix
 - Reverts / Removals
   - Reverts
     - none
@@ -74,7 +180,7 @@
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
-  - none
+  - Icon Fix
 - Reverts / Removals
   - Reverts
     - none
