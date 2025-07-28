@@ -10,7 +10,7 @@
     - none
 - Updates
   - Modpack
-    - none
+    - Moratorium Client - [0.5.0](https://github.com/Apollonu/Moratorium-Client/blob/main/CHANGELOG.md) -> [0.6.0](https://github.com/Apollonu/Moratorium-Client/blob/main/CHANGELOG.md)
   - Mods
     - EnhancedLockpicker - [1.1.6](https://thunderstore.io/c/lethal-company/p/MrHydralisk/EnhancedLockpicker/v/1.1.6) -> [1.1.7](https://thunderstore.io/c/lethal-company/p/MrHydralisk/EnhancedLockpicker/v/1.1.7)
     - LethalLib - [1.1.0](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/v/1.1.0) -> [1.1.1](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/v/1.1.1)
