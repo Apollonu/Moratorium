@@ -26,6 +26,9 @@
     - ShipWindows - [1.11.0](https://thunderstore.io/c/lethal-company/p/TestAccount666/ShipWindows/v/1.11.0) -> [2.5.1](https://thunderstore.io/c/lethal-company/p/TestAccount666/ShipWindows/v/2.5.1)
     - StarlancerAIFix - [3.10.0](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/v/3.10.0) -> [3.11.1](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/v/3.11.1)
   - Configs
+    - BetterLadders (Update, Changes)
+    - BetterStamina
+    - darmuhsTerminalStuff (Disabled MoonsPlus)
     - [Poltergeist](https://thunderstore.io/c/lethal-company/p/coderCleric/Poltergeist) (Update)
     - [ScienceBird Tweaks](https://thunderstore.io/c/lethal-company/p/ScienceBird/ScienceBird_Tweaks) (Update)
     - [ShipWindows](https://thunderstore.io/c/lethal-company/p/TestAccount666/ShipWindows) (Update, Balancing)
