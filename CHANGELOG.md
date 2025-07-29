@@ -28,7 +28,7 @@
   - Configs
     - [BetterLaddersFixed](https://thunderstore.io/c/lethal-company/p/Lunxara/BetterLaddersFixed) (Update, Changes)
     - [BetterStamina](https://thunderstore.io/c/lethal-company/p/FlipMods/BetterStamina) (Changes)
-    - [darmuhsTerminalStuff](https://thunderstore.io/c/lethal-company/p/darmuh/darmuhsTerminalStuff) (Disabled MoonsPlus)
+    - [darmuhsTerminalStuff](https://thunderstore.io/c/lethal-company/p/darmuh/darmuhsTerminalStuff) (Disabled MoonsPlus, StorePlus)
     - [Poltergeist](https://thunderstore.io/c/lethal-company/p/coderCleric/Poltergeist) (Update)
     - [ScienceBird Tweaks](https://thunderstore.io/c/lethal-company/p/ScienceBird/ScienceBird_Tweaks) (Update)
     - [ShipWindows](https://thunderstore.io/c/lethal-company/p/TestAccount666/ShipWindows) (Update, Balancing)
