@@ -6,8 +6,9 @@
 - Additions
   - Mods
     - BetterLaddersFixed - [1.0.7](https://thunderstore.io/c/lethal-company/p/Lunxara/BetterLaddersFixed/v/1.0.7)
-    - Interactive Terminal API - [1.2.0](https://thunderstore.io/c/lethal-company/p/WhiteSpike/Interactive_Terminal_API/v/1.2.0)
     - FacilityMeltdown - [2.7.1](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown/v/2.7.1)
+    - Interactive Terminal API - [1.2.0](https://thunderstore.io/c/lethal-company/p/WhiteSpike/Interactive_Terminal_API/v/1.2.0)
+    - LethalRadiation - [1.2.2](https://thunderstore.io/c/lethal-company/p/gamehog44/LethalRadiation/v/1.2.2)
     - MonoDetour BepInEx 5 - [0.6.14](https://thunderstore.io/c/lethal-company/p/MonoDetour/MonoDetour_BepInEx_5/v/0.6.14) + MonoDetour - [0.6.14](https://thunderstore.io/c/lethal-company/p/MonoDetour/MonoDetour/v/0.6.14)
     - NestFix - [1.2.0](https://thunderstore.io/c/lethal-company/p/PureFPSZac/NestFix/v/1.2.0)
     - PizzaProbability - [1.2.3](https://thunderstore.io/c/lethal-company/p/TrippyTree/PizzaProbability/v/1.2.3)
@@ -33,6 +34,7 @@
     - [BetterStamina](https://thunderstore.io/c/lethal-company/p/FlipMods/BetterStamina) (Changes)
     - [darmuhsTerminalStuff](https://thunderstore.io/c/lethal-company/p/darmuh/darmuhsTerminalStuff) (Disabled MoonsPlus, StorePlus)
     - [FacilityMeltdown](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown)
+    - [LethalRadiation](https://thunderstore.io/c/lethal-company/p/gamehog44/LethalRadiation)
     - [PizzaProbability](https://thunderstore.io/c/lethal-company/p/TrippyTree/PizzaProbability)
     - [Poltergeist](https://thunderstore.io/c/lethal-company/p/coderCleric/Poltergeist) (Update)
     - [ScienceBird Tweaks](https://thunderstore.io/c/lethal-company/p/ScienceBird/ScienceBird_Tweaks) (Update)
