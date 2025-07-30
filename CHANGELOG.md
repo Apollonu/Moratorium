@@ -8,6 +8,7 @@
     - BetterLaddersFixed - [1.0.7](https://thunderstore.io/c/lethal-company/p/Lunxara/BetterLaddersFixed/v/1.0.7)
     - Interactive Terminal API - [1.2.0](https://thunderstore.io/c/lethal-company/p/WhiteSpike/Interactive_Terminal_API/v/1.2.0)
     - MonoDetour BepInEx 5 - [0.6.14](https://thunderstore.io/c/lethal-company/p/MonoDetour/MonoDetour_BepInEx_5/v/0.6.14) + MonoDetour - [0.6.14](https://thunderstore.io/c/lethal-company/p/MonoDetour/MonoDetour/v/0.6.14)
+    - NestFix - [1.2.0](https://thunderstore.io/c/lethal-company/p/PureFPSZac/NestFix/v/1.2.0)
     - TestAccountCore - [1.14.3](https://thunderstore.io/c/lethal-company/p/TestAccount666/TestAccountCore/v/1.14.3)
   - Resourcepacks / Shaderpacks
     - none
