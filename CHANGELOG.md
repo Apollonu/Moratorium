@@ -1,6 +1,6 @@
 <details close>
 <summary><h2>
-  Moratorium - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium/versions">0.5.0</a> (Nightly)
+  Moratorium - <a href="">0.5.0</a> (Nightly)
 </h2></summary><br>
 
 - Additions
@@ -55,7 +55,7 @@
 
 <details close>
 <summary><h2>
-  Moratorium - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium/versions">0.4.1</a> (Current Release)
+  Moratorium - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium/v/0.4.1">0.4.1</a> (Current Release)
 </h2></summary><br>
 
 - Additions
@@ -83,7 +83,7 @@
 
 <details close>
 <summary><h2>
-  Moratorium - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium/versions">0.4.0</a> (Modern Template)
+  Moratorium - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium/v/0.4.0">0.4.0</a> (Modern Template)
 </h2></summary><br>
 
 - Additions
@@ -123,7 +123,7 @@
 
 <details close>
 <summary><h2>
-  Moratorium - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium/versions">0.3.0</a>
+  Moratorium - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium/v/0.3.0">0.3.0</a>
 </h2></summary><br>
 
 - Additions
@@ -161,7 +161,7 @@
 
 <details close>
 <summary><h2>
-  Moratorium - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium/versions">0.2.3</a>
+  Moratorium - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium/v/0.2.3">0.2.3</a>
 </h2></summary><br>
 
 - Additions
@@ -187,9 +187,10 @@
     - none
 </details>
 
+
 <details close>
 <summary><h2>
-  Moratorium - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium/versions">0.2.1-2</a>
+  Moratorium - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium/v/0.2.2">0.2.2</a>
 </h2></summary><br>
 
 - Additions
@@ -217,7 +218,35 @@
 
 <details close>
 <summary><h2>
-  Moratorium - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium/versions">0.2.0</a>
+  Moratorium - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium/v/0.2.1">0.2.1</a>
+</h2></summary><br>
+
+- Additions
+  - Mods
+    - none
+  - Resourcepacks / Shaderpacks
+    - none
+- Updates
+  - Modpack
+    - none
+  - Mods
+    - none
+  - Configs
+    - none
+  - Resourcepacks / Shaderpacks
+    - none
+- Fixes
+  - Icon Fix
+- Reverts / Removals
+  - Reverts
+    - none
+  - Removals
+    - none
+</details>
+
+<details close>
+<summary><h2>
+  Moratorium - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium/v/0.2.0">0.2.0</a>
 </h2></summary><br>
 
 - Additions
@@ -274,7 +303,7 @@
 
 <details close>
 <summary><h2>
-  Moratorium - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium/versions">0.1.0</a>
+  Moratorium - 0.1.0 (Unreleased)
 </h2></summary><br>
 
 - Additions
