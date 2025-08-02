@@ -13,6 +13,7 @@
     - NestFix - [1.2.0](https://thunderstore.io/c/lethal-company/p/PureFPSZac/NestFix/v/1.2.0)
     - PizzaProbability - [1.2.3](https://thunderstore.io/c/lethal-company/p/TrippyTree/PizzaProbability/v/1.2.3)
     - TestAccountCore - [1.14.3](https://thunderstore.io/c/lethal-company/p/TestAccount666/TestAccountCore/v/1.14.3)
+    - YesFox - [1.1.5](https://thunderstore.io/c/lethal-company/p/Dev1A3/YesFox/v/1.1.5)
   - Resourcepacks / Shaderpacks
     - none
 - Updates
