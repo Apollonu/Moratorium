@@ -33,7 +33,7 @@
   - Configs
     - [BetterLaddersFixed](https://thunderstore.io/c/lethal-company/p/Lunxara/BetterLaddersFixed) (Update, Changes)
     - [BetterStamina](https://thunderstore.io/c/lethal-company/p/FlipMods/BetterStamina) (Changes)
-    - [darmuhsTerminalStuff](https://thunderstore.io/c/lethal-company/p/darmuh/darmuhsTerminalStuff) (Disabled MoonsPlus, StorePlus)
+    - [darmuhsTerminalStuff](https://thunderstore.io/c/lethal-company/p/darmuh/darmuhsTerminalStuff) (Disabled MoonsPlus, StorePlus, gambling)
     - [FacilityMeltdown](https://thunderstore.io/c/lethal-company/p/loaforc/FacilityMeltdown)
     - [LethalRadiation](https://thunderstore.io/c/lethal-company/p/gamehog44/LethalRadiation)
     - [PizzaProbability](https://thunderstore.io/c/lethal-company/p/TrippyTree/PizzaProbability)
