@@ -39,7 +39,7 @@
     - [PizzaProbability](https://thunderstore.io/c/lethal-company/p/TrippyTree/PizzaProbability)
     - [Poltergeist](https://thunderstore.io/c/lethal-company/p/coderCleric/Poltergeist) (Update)
     - [ScienceBird Tweaks](https://thunderstore.io/c/lethal-company/p/ScienceBird/ScienceBird_Tweaks) (Update)
-    - [ShipWindows](https://thunderstore.io/c/lethal-company/p/TestAccount666/ShipWindows) (Update, Balancing)
+    - [ShipWindows](https://thunderstore.io/c/lethal-company/p/TestAccount666/ShipWindows) (Update, Balancing, Skybox)
   - Resourcepacks / Shaderpacks
     - none
 - Fixes
