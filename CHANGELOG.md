@@ -50,6 +50,7 @@
     - none
   - Removals
     - [BetterLadders](https://thunderstore.io/c/lethal-company/p/e3s1/BetterLadders)
+    - [BetterMonitor](https://thunderstore.io/c/lethal-company/p/fumiko/BetterMonitor) + Config
     - [DoorFix](https://thunderstore.io/c/lethal-company/p/itsmeowdev/DoorFix)
     - [FairBirds](https://thunderstore.io/c/lethal-company/p/woah25/FairBirds)
     - [FairGiantsHostOnly](https://thunderstore.io/c/lethal-company/p/woah25/FairGiantsHostOnly)
