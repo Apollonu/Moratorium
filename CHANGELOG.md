@@ -28,7 +28,7 @@
     - NaturalSelectionLib - [0.6.7](https://thunderstore.io/c/lethal-company/p/Fandovec03/NaturalSelectionLib/v/0.6.7) -> [0.8.0](https://thunderstore.io/c/lethal-company/p/Fandovec03/NaturalSelectionLib/v/0.8.0)
     - PathfindingLib - [0.1.1](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLib/v/0.1.1) -> [1.0.1](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLib/v/1.0.1)
     - Poltergeist - [1.2.2](https://thunderstore.io/c/lethal-company/p/coderCleric/Poltergeist/v/1.2.2) -> [1.2.6](https://thunderstore.io/c/lethal-company/p/coderCleric/Poltergeist/v/1.2.6)
-    - ScienceBird Tweaks - [4.2.10](https://thunderstore.io/c/lethal-company/p/ScienceBird/ScienceBird_Tweaks/v/4.2.10) -> [4.3.3](https://thunderstore.io/c/lethal-company/p/ScienceBird/ScienceBird_Tweaks/v/4.3.3)
+    - ScienceBird Tweaks - [4.2.10](https://thunderstore.io/c/lethal-company/p/ScienceBird/ScienceBird_Tweaks/v/4.2.10) -> [4.4.0](https://thunderstore.io/c/lethal-company/p/ScienceBird/ScienceBird_Tweaks/v/4.4.0)
     - ShipWindows - [1.11.0](https://thunderstore.io/c/lethal-company/p/TestAccount666/ShipWindows/v/1.11.0) -> [2.5.1](https://thunderstore.io/c/lethal-company/p/TestAccount666/ShipWindows/v/2.5.1)
     - StarlancerAIFix - [3.10.0](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/v/3.10.0) -> [3.11.1](https://thunderstore.io/c/lethal-company/p/AudioKnight/StarlancerAIFix/v/3.11.1)
   - Configs
