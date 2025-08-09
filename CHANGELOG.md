@@ -1,6 +1,34 @@
 <details close>
 <summary><h2>
-  Moratorium - <a href="">0.5.0</a> (Nightly)
+  Moratorium - <a href="">0.6.0</a> (Nightly)
+</h2></summary><br>
+
+- Additions
+  - Mods
+    - none
+  - Resourcepacks / Shaderpacks
+    - none
+- Updates
+  - Modpack
+    - none
+  - Mods
+    - none
+  - Configs
+    - none
+  - Resourcepacks / Shaderpacks
+    - none
+- Fixes
+  - none
+- Reverts / Removals
+  - Reverts
+    - none
+  - Removals
+    - none
+</details>
+
+<details close>
+<summary><h2>
+  Moratorium - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium/v/0.5.0">0.5.0</a> (Current Release)
 </h2></summary><br>
 
 - Additions
@@ -58,7 +86,7 @@
 
 <details close>
 <summary><h2>
-  Moratorium - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium/v/0.4.1">0.4.1</a> (Current Release)
+  Moratorium - <a href="https://thunderstore.io/c/lethal-company/p/Apollou/Moratorium/v/0.4.1">0.4.1</a>
 </h2></summary><br>
 
 - Additions
