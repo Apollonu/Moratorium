@@ -12,7 +12,7 @@
   - Modpack
     - none
   - Mods
-    - none
+    - PathfindingLib - [2.0.0](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLib/v/2.0.0) -> [2.1.1](https://thunderstore.io/c/lethal-company/p/Zaggy1024/PathfindingLib/v/2.1.1)
   - Configs
     - none
   - Resourcepacks / Shaderpacks
